@@ -1,0 +1,53 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Compile Update="FrmCircle.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FrmDecagon.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="frmEllipse.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FrmEneagon.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FrmHeptagon.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FrmHexagon.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FrmHome.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FrmIsoscelesTrapezoid.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FrmOctangon.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FrmOval.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FrmPentagon.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="frmRectangle.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FrmRombo.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FrmSquare.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FrmTrapezoid.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="frmTriangle.cs">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>
